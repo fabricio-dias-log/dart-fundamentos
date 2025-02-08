@@ -16,3 +16,6 @@ Utilizando a palavra ``final`` são declaradas variáveis constantes onde suas a
 - String (String);
 - Booleano (bool);
 - Dynamic -> diferente de ``var`` este tipo permite trocar o tipo da variável para outros tipos durante a execução;
+- List<Tipo> -> array sem chave valor
+- Set<Tipo> -> array que não permite repetição e sem chave valor
+- Map<TipoChave, TipoValor> -> array de chave valor e permite repetição
